@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hey 🤙
+
+My name is Vilson Jesuino de Lima Junior, I'm from Brazil 🇧🇷 I've been working as a Front-end developer since 2020, currently studying computer science at UTFPR, I'm a freelance developer, and I live in Ponta Grossa.
+
+
+- [Instagram/code.devjunior](https://www.instagram.com/code.devjunior)
+- [Linkedin/code.devjunior](https://www.linkedin.com/in/vilson-jesuino-de-lima-junior-92773a1b8)
+
+
 
 <!--
 **codedevjunior/codedevjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
