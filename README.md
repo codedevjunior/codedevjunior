@@ -1,6 +1,6 @@
-# Hey 🤙
+# Hello 🤙
 
-My name is Vilson Jesuino de Lima Junior, I'm from Brazil 🇧🇷 I've been working as a Front-end developer since 2020, currently studying computer science at UTFPR, I'm a freelance developer, and I live in Ponta Grossa.
+My name is Wilson, I'm an Android developer. I live in Brazil, in the city of Ponta Grossa. I'm a programming student.
 
 
 - [Instagram/code.devjunior](https://www.instagram.com/code.devjunior)
